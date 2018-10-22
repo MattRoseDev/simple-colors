@@ -1,2 +1,2 @@
-# COLORS
-Color Picker
+# SIMPLE COLORS
+Color Palette
